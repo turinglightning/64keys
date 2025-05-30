@@ -122,7 +122,7 @@ modcp: mod_copy {
             bindings = <
     &none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &none &none &sys_reset                   &sys_reset  &none &none &none &none &none &to 0
     &none &none &none &none &none &none &none                                             &none       &none &none &none &none &none &none
-    &none &bt BT_CLR &none &none &none &none  &none                                       &none       &none &none &none &none &none &none
+    &none &bt BT_CLR &none &none &none &none  &none                                       &none       &kp F2 &kp F8 &kp F9 &kp F12 &none &none
     &none &out OUT_TOG &none &none &none &none                                                        &none &none &none &none &none &none 
     &none &none &none &none &none &none                                                               &none &none &none &none &none &none	
     &none &none &none &none                                                                           &none &none &none &none     	
